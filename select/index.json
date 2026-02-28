@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "world.execute (me) ;",
+  "base_artist": "Mili",
+  "createdAt": "2026-02-28T09:07:51.022286Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "world.execute (me) ;",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/01_world.execute_(me)_;_Mili.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "world.execute(me); - Key Ingredient ver.",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/02_world.execute(me);_-_Key_Ingredient_ver._Mili.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "World.Execute(me)",
+      "artist": "JINJA",
+      "has_synced": true,
+      "path": "select/03_World.Execute(me)_JINJA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "world.execute (me) ;",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/04_world.execute_(me)_;_Mili.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "world.execute(me);",
+      "artist": "mili",
+      "has_synced": true,
+      "path": "select/05_world.execute(me);_mili.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mili - world.execute(me);",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/06_Mili_-_world.execute(me);_Mili.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "world.execute(me); inst",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/07_world.execute(me);_inst_Mili.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "world.execute(me);",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/08_world.execute(me);_Mili.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "world.execute (me)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/09_world.execute_(me)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "world․execute(me);",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/10_world.execute(me);_Mili.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "world․execute (me) ; (Key Ingredient ver․)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/11_world.execute_(me)_;_(Key_Ingredient_ver.)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mili - world.execute(me); (Key Ingredient ver.)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/12_Mili_-_world.execute(me);_(Key_Ingredient_ver.)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "world.execute (me) ; (Key Ingredient ver.)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/13_world.execute_(me)_;_(Key_Ingredient_ver.)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "\"world.execute(me)",
+      "artist": "- Key Ingredient ver.\"",
+      "has_synced": true,
+      "path": "select/14_world.execute(me)_-_Key_Ingredient_ver..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "world.execute(me);",
+      "artist": "Neuro - Mili",
+      "has_synced": true,
+      "path": "select/15_world.execute(me);_Neuro_-_Mili.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "world.execute(me);",
+      "artist": "Evil - Mili",
+      "has_synced": false,
+      "path": "select/16_world.execute(me);_Evil_-_Mili.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "world.execute(me);",
+      "artist": "Mili",
+      "has_synced": false,
+      "path": "select/pl_01_world.execute(me);_Mili.txt"
+    }
+  ]
+}
